@@ -1,5 +1,7 @@
-### LAB 
+### LAB 7
 #### FER201m-Front-End web development with React
-* List films anime
+* Use MockApi
+* CRUD with API
 * Use Material UI
-![screen web](https://github.com/kansimp/lab1-2-3-4/blob/main/screen/lag.png)
+* Login with google
+![screen web](https://github.com/kansimp/lab7/blob/main/screen/lab7.png)
